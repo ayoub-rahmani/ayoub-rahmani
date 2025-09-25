@@ -42,7 +42,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Auto-École Manager](link)** | Desktop app for driving school management. | `Java` `JavaFX` `MySQL` `SMTP` |
-| **[Delivery App](link)** | Real-time delivery service mobile app. | `Flutter` `Firebase` `Firestore` `Auth` |
+| **[Delivery App](https://github.com/ayoub-rahmani/Deliverini_TN)** | Real-time delivery service mobile app. | `Flutter` `Firebase` `Firestore` `Auth` |
 | **[Checkout App](link)** | UI/UX-focused mobile checkout experience. | `Flutter` `Dart` |
 
 ---
