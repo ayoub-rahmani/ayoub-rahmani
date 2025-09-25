@@ -58,11 +58,16 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Auto-École Manager](https://github.com/ayoub-rahmani/Driving_school_Pro)** | Desktop app for driving school management with integrated maps and SMTP recovery | `Java` `JavaFX` `MySQL` `SMTP` |
-| **[Delivery App](https://github.com/ayoub-rahmani/Deliverini_TN)** | Real-time delivery service mobile app with authentication and rating system | `Flutter` `Firebase` `Firestore` `Auth` |
-| **[Checkout App](https://github.com/ayoub-rahmani/Smart_Checkout)** | UI/UX-focused mobile checkout experience with smooth animations | `Flutter` `Dart` |
+<div align="center">
+
+| | Project | Description | Tech Stack |
+|-| :--- | :--- | :--- |
+| 🚗 | **[Auto-École Manager](https://github.com/ayoub-rahmani/Driving_school_Pro)** | Driving school management with maps & email recovery | `Java` `JavaFX` `MySQL` |
+| 📦 | **[Deliverini TN](https://github.com/ayoub-rahmani/Deliverini_TN)** | Real-time delivery app with live tracking | `Flutter` `Firebase` `Firestore` |
+| 🏥 | **[Radiology Center](https://github.com/ayoub-rahmani/Radiology_Center)** | Medical facility management & PDF reporting | `Java` `PDF Generation` `Data Management` |
+| 💳 | **[Smart Checkout](https://github.com/ayoub-rahmani/Smart_Checkout)** | Smooth mobile checkout experience | `Flutter` `Dart` `Animations` |
+
+</div>
 
 ---
 
