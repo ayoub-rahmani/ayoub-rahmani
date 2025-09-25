@@ -60,9 +60,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Auto-École Manager](link)** | Desktop app for driving school management with integrated maps and SMTP recovery | `Java` `JavaFX` `MySQL` `SMTP` |
+| **[Auto-École Manager](https://github.com/ayoub-rahmani/Driving_school_Pro)** | Desktop app for driving school management with integrated maps and SMTP recovery | `Java` `JavaFX` `MySQL` `SMTP` |
 | **[Delivery App](https://github.com/ayoub-rahmani/Deliverini_TN)** | Real-time delivery service mobile app with authentication and rating system | `Flutter` `Firebase` `Firestore` `Auth` |
-| **[Checkout App](link)** | UI/UX-focused mobile checkout experience with smooth animations | `Flutter` `Dart` |
+| **[Checkout App](https://github.com/ayoub-rahmani/Smart_Checkout)** | UI/UX-focused mobile checkout experience with smooth animations | `Flutter` `Dart` |
 
 ---
 
