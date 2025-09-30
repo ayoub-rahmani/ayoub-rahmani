@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Computer Engineering student from Tunisia</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayoub-rahmani-linkêdin">LinkedIn</a> •
-  <a href="mailto:ayoub.rahmani.dev@gmail.com">Email</a>
+  <a href="https://ayoub-rahmani.github.io">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ayoub-rahmani-linkêdin">💼 LinkedIn</a> •
+  <a href="mailto:ayoub.rahmani.dev@gmail.com">✉️ Email</a>
 </p>
 
 ---
