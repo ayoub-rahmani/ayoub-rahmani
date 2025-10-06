@@ -32,13 +32,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-**AI Tools & Assistants**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-ED6B3A?style=for-the-badge)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-1E40AF?style=for-the-badge)
-![Grok](https://img.shields.io/badge/Grok-8B5CF6?style=for-the-badge)
-![v0](https://img.shields.io/badge/v0_AI-000000?style=for-the-badge)
 
 **Web Technologies**
 
