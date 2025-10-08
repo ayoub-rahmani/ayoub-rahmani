@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ayoub Rahmani 👋</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack & Mobile Developer</h3>
+<h3 align="center">Computer Engineering Student | Java & Mobile Developer</h3>
 
 <p align="center">
   <a href="https://ayoub-rahmani.github.io">🌐 Website</a> •
