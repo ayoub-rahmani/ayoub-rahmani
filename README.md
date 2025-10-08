@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Ayoub Rahmani 👋</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Engineering Student | Full-Stack & Mobile Developer</h3>
 
 <p align="center">
-  <a href="https://ayoub-rahmani.github.io">🌐 Portfolio</a> •
+  <a href="https://ayoub-rahmani.github.io">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/ayoub-rahmani-linkêdin">💼 LinkedIn</a> •
   <a href="mailto:ayoub.rahmani.dev@gmail.com">✉️ Email</a>
 </p>
@@ -16,162 +16,140 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering student **(GLSI)** at Faculté des Sciences de Bizerte, Tunisia
-- 💼 Building production-ready applications with **mobile-first** and **desktop solutions**
-- 🤖 **AI Power User**: Expert in leveraging AI tools (Claude, ChatGPT, DeepSeek, Grok, v0) to accelerate development, debug complex issues, and enhance code quality
-- 🎬 **Content Creator**: Skilled in CapCut for professional video editing and multimedia content
-- 🚀 **Fast Learner**: Thrive on mastering new technologies and tackling challenging projects outside my comfort zone
-- 🔧 **Problem Solver**: From complex scheduling algorithms to real-time data synchronization
-- 📫 Reach me: **ayoub.rahmani.dev@gmail.com**
+- 🎓 **Computer Engineering Student** at Faculté des Sciences de Bizerte (Université de Carthage)
+- 💻 **Full-Stack Developer** specializing in Java backend and Flutter mobile applications
+- 🚀 Building **production-ready applications** with complex architectures and real-time features
+- 🎯 Focused on **clean code, scalable design, and optimal user experiences**
+- 🔧 Passionate about solving complex problems through **efficient algorithms and system design**
+- 📍 Based in Tunisia | Open for PFE internships starting February 2026
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technical Stack
 
 #### **Programming Languages**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### **Frameworks & Development**
-
+#### **Frameworks & Platforms**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **Databases & Backend**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=oracle&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-
-#### **Tools & Productivity**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### **Development Tools**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-
-#### **AI & Productivity Suite**
-
-![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
 ### 🎯 Featured Projects
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🚗 Auto-École Pro</h3>
-      <a href="https://github.com/ayoub-rahmani/Driving_school_Pro">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p><strong>Driving School Management System</strong></p>
-      <p>Enterprise application with intelligent scheduling, conflict detection, map integration & payment management</p>
-      <p>
+    <td width="50%">
+      <h3 align="center">🚗 Auto-École Pro</h3>
+      <div align="center">
+        <a href="https://github.com/ayoub-rahmani/Driving_school_Pro">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p><strong>Enterprise Driving School Management System</strong></p>
+      <ul>
+        <li>Intelligent scheduling with multi-entity conflict detection</li>
+        <li>OpenStreetMap integration for location management</li>
+        <li>Real-time analytics dashboard and PDF generation</li>
+        <li>MySQL database with 17+ optimized modules</li>
+      </ul>
+      <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <p><em>• Conflict resolution algorithms • OpenStreetMap API • PDF generation • Real-time analytics</em></p>
     </td>
-    <td align="center" width="50%">
-      <h3>📦 Deliverini TN</h3>
-      <a href="https://github.com/ayoub-rahmani/Deliverini_TN">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p><strong>Food Delivery Application</strong></p>
-      <p>Full-featured delivery app with real-time tracking, chat support, and seamless user experience</p>
-      <p>
+    <td width="50%">
+      <h3 align="center">📦 Deliverini TN</h3>
+      <div align="center">
+        <a href="https://github.com/ayoub-rahmani/Deliverini_TN">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p><strong>Full-Featured Food Delivery Application</strong></p>
+      <ul>
+        <li>Real-time order tracking and live chat support</li>
+        <li>Firebase-powered backend with instant synchronization</li>
+        <li>Bilingual interface with Arabic RTL support</li>
+        <li>Advanced cart system with customization options</li>
+      </ul>
+      <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       </p>
-      <p><em>• Real-time order tracking • Live chat • Arabic/RTL support • State management</em></p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>🏥 Radiology Center</h3>
-      <a href="https://github.com/ayoub-rahmani/Radiology_Center">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p><strong>Medical Facility Management</strong></p>
-      <p>Complete patient management system with appointment scheduling and PDF report generation</p>
-      <p>
+    <td width="50%">
+      <h3 align="center">🏥 Radiology Center</h3>
+      <div align="center">
+        <a href="https://github.com/ayoub-rahmani/Radiology_Center">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p><strong>Medical Facility Management System</strong></p>
+      <ul>
+        <li>Complete patient and appointment management</li>
+        <li>Automated PDF report generation</li>
+        <li>Billing and financial tracking system</li>
+        <li>Terminal-based interface with comprehensive search</li>
+      </ul>
+      <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/PDF-DC143C?style=flat-square&logo=adobe&logoColor=white" />
       </p>
-      <p><em>• Patient records • Appointment management • Document generation • Data analytics</em></p>
     </td>
-    <td align="center" width="50%">
-      <h3>💳 Smart Checkout</h3>
-      <a href="https://github.com/ayoub-rahmani/Smart_Checkout">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p><strong>Mobile Checkout System</strong></p>
-      <p>Smooth and intuitive checkout experience with modern animations and responsive design</p>
-      <p>
+    <td width="50%">
+      <h3 align="center">💳 Smart Checkout</h3>
+      <div align="center">
+        <a href="https://github.com/ayoub-rahmani/Smart_Checkout">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p><strong>E-commerce Checkout Solution</strong></p>
+      <ul>
+        <li>Instagram-integrated product management</li>
+        <li>Real-time analytics and revenue tracking</li>
+        <li>Inventory management with stock monitoring</li>
+        <li>Modern Flutter UI with smooth animations</li>
+      </ul>
+      <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       </p>
-      <p><em>• Smooth animations • Payment processing • Cart management • Clean UI/UX</em></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 What I Bring to the Table
-
-<table>
-  <tr>
-    <td>🚀 <strong>Fast Development</strong></td>
-    <td>Leverage AI tools to write cleaner code, debug efficiently, and rapidly learn new technologies</td>
-  </tr>
-  <tr>
-    <td>📱 <strong>Full-Stack Skills</strong></td>
-    <td>Mobile apps with Flutter, desktop applications with JavaFX, and web development</td>
-  </tr>
-  <tr>
-    <td>🧠 <strong>Problem Solving</strong></td>
-    <td>Complex algorithms (scheduling, conflict resolution) and real-time data synchronization</td>
-  </tr>
-  <tr>
-    <td>🎨 <strong>UI/UX Focus</strong></td>
-    <td>Creating intuitive interfaces with modern design principles and smooth animations</td>
-  </tr>
-  <tr>
-    <td>📊 <strong>Database Design</strong></td>
-    <td>Normalized schemas, efficient queries, and data integrity for large-scale applications</td>
-  </tr>
-  <tr>
-    <td>🎬 <strong>Content Creation</strong></td>
-    <td>Professional video editing and multimedia content with CapCut for presentations</td>
-  </tr>
-  <tr>
-    <td>🌱 <strong>Growth Mindset</strong></td>
-    <td>Excited to learn, adapt quickly, and tackle challenges outside my comfort zone</td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoub-rahmani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-rahmani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoub-rahmani&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-rahmani&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
@@ -180,11 +158,22 @@
 
 ---
 
-### 🤝 Let's Connect!
+### 🌟 What I Excel At
+
+- **Full-Stack Development** - End-to-end application development from database design to UI implementation
+- **Mobile & Desktop Solutions** - Cross-platform Flutter apps and JavaFX enterprise systems
+- **Database Architecture** - Optimized MySQL schemas and real-time Firebase implementations
+- **Problem Solving** - Complex algorithm design for scheduling, conflict resolution, and data synchronization
+- **UI/UX Implementation** - Creating intuitive interfaces with modern design principles
+- **System Integration** - Third-party APIs, map services, and real-time communication features
+
+---
+
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://ayoub-rahmani.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ayoub-rahmani-linkêdin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -200,8 +189,8 @@
 ---
 
 <p align="center">
-  <i>💡 Open to internships, freelance projects, and collaborations!</i><br>
-  <i>🚀 Always excited to learn new technologies and take on challenging projects!</i>
+  <i>🚀 Open to PFE internships starting February 2026</i><br>
+  <i>💡 Passionate about building scalable solutions and tackling technical challenges</i>
 </p>
 
 <p align="center">
